@@ -1,4 +1,4 @@
-
+Enhance Bear for macOS with Bear for macOS best Macro: version history & export to PDF, the #1 macro. Includes version history and export to PDF for a smoother experience.
 
 
 
